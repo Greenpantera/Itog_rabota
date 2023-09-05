@@ -1,3 +1,5 @@
+# Программа с комментариями
+
 ### Console.WriteLine("Введите элементы массива через пробел:");
 ### string input = Console.ReadLine();
 ### string[] inputArray = input.Split(new[] { ' ' },StringSplitOptions.RemoveEmptyEntries);
